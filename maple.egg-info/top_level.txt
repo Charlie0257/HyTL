@@ -1,4 +1,0 @@
-LTL
-gnns
-maple
-plan
