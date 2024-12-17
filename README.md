@@ -1,4 +1,4 @@
-# HyTL
+# HyTL (IROS 2024 Oral Presentation 15min)
 Exploiting Hybrid Policy in Reinforcement Learning for Interpretable Temporal Logic Manipulation
 <p align="center">
     <img width="1000" src="doc/framework.png">
