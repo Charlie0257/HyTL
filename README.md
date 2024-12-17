@@ -7,6 +7,11 @@ If any questions, feel free to contact: zcharlie0257@gmail.com.
 
 ## Installation instructions
 ```
+conda create -n hytl python=3.8
+conda activate hytl
+
+cd HyTL/
+
 pip install -e .
 
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
