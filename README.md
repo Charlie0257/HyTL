@@ -16,6 +16,7 @@ pip install -e .
 
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
 
+git clone -b maple https://github.com/ARISE-Initiative/robosuite
 cd robosuite/
 pip install -e .
 cd ..
@@ -65,6 +66,8 @@ python train.py --env stack --LTL --waypoint --map_goal --path_max_len 6 --d_out
 cd scripts/
 python train.py --env peg_ins --LTL --waypoint --map_goal --path_max_len 4 --d_out 32
 ```
+## Acknowledgement
+Much of this codebase is inspired by [MAPLE](https://github.com/UT-Austin-RPL/maple) and [T2TL](https://github.com/Charlie0257/T2TL).
 
 ## Citation
 
