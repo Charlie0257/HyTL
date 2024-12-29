@@ -72,7 +72,14 @@ Much of this codebase is inspired by [MAPLE](https://github.com/UT-Austin-RPL/ma
 ## Citation
 
 ```
-
-
-
+@INPROCEEDINGS{10802202,
+  author={Zhang, Hao and Wang, Hao and Huang, Xiucai and Chen, Wenrui and Kan, Zhen},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Exploiting Hybrid Policy in Reinforcement Learning for Interpretable Temporal Logic Manipulation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={13795-13800},
+  keywords={Decision making;Semantics;Reinforcement learning;Robot learning;Planning;Logic;Intelligent robots;Convergence},
+  doi={10.1109/IROS58592.2024.10802202}}
 ```
