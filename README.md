@@ -1,4 +1,10 @@
 # HyTL (IROS 2024 Oral Presentation 15min)
+
+[![Website](https://img.shields.io/badge/Website-orange.svg )](https://sites.google.com/view/hytl-0257/)
+[![Arxiv](https://img.shields.io/badge/Arxiv-green.svg )](https://arxiv.org/abs/2412.20338)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCharlie0257%2FHyTL&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Jiyao06/GenPose/blob/main/LICENSE)
+
 Exploiting Hybrid Policy in Reinforcement Learning for Interpretable Temporal Logic Manipulation
 <p align="center">
     <img width="1000" src="doc/framework.png">
